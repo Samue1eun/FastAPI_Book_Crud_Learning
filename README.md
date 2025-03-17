@@ -24,3 +24,5 @@ Example:
 
 
 Status codes
+
+# Don't forget to pip freeze > requirements.txt to ensure that the correct files and versions are up to date.
