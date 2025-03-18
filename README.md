@@ -26,3 +26,16 @@ Example:
 Status codes
 
 # Don't forget to pip freeze > requirements.txt to ensure that the correct files and versions are up to date.
+
+
+
+
+# Databases with SQL Model
+
+In real-world applications it is essential to use a persistent database solution
+
+PostgreSQL is a database management system, open source and free.
+
+An Object-Relational Mapper (ORM) translates between a programming language, such as Python, and a database, like PostgreSQL.
+
+SQLAlchemy is the most popular ORM for Python mapping objects to database tables and providing a high-level SQL language.
