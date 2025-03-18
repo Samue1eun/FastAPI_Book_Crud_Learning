@@ -39,3 +39,11 @@ PostgreSQL is a database management system, open source and free.
 An Object-Relational Mapper (ORM) translates between a programming language, such as Python, and a database, like PostgreSQL.
 
 SQLAlchemy is the most popular ORM for Python mapping objects to database tables and providing a high-level SQL language.
+
+# When is the right time to connect to a database?
+
+It is when the application starts running
+
+# Connecting the database to the application
+
+async def init_db()
